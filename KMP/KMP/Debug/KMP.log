@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+g:\algorithm\kmp\kmp\kmp.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  KMP.vcxproj -> G:\algorithm\KMP\Debug\KMP.exe
+  KMP.vcxproj -> G:\algorithm\KMP\Debug\KMP.pdb (Full PDB)
